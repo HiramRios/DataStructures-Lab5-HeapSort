@@ -1,1 +1,1 @@
-# Lab-5-Heapsort-
+# Lab_5_Data_Structures_Min_Heap
